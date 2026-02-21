@@ -26,12 +26,6 @@ The website is fully responsive and demonstrates modern web development practice
 
 ---
 
-## Screenshots
-
-![Portfolio Screenshot](screenshot.png)
-
----
-
 ## Lessons Learned
 
 - Proper use of semantic HTML elements (`header`, `section`, `article`, `footer`)
